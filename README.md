@@ -2,7 +2,7 @@ This is a collection of The Analects and its three English translations respecti
 
 # The-Analects    
 @inproceedings{jin-etal-2023-morphological,    
-    title = "Morphological and Semantic Evaluation of {A}ncient {C}hinese Machine Translation",        
+    title = "Morphological and Semantic Evaluation of Ancient Chinese Machine Translation",        
     author = "Jin, Kai  and    
       Zhao, Dan  and    
       Liu, Wuying",    
