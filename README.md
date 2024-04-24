@@ -12,3 +12,4 @@
     url = "https://aclanthology.org/2023.alp-1.11",    
     pages = "96--102",    
 }    
+Please also email us with the title of your paper or work on this project's dataset @tsukikino@yahoo.com
