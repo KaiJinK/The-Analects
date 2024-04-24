@@ -1,3 +1,5 @@
+This is a collection of The Analects and its three English translations respectively by James Legge, Ezra Pound and Gu Hongming.    
+
 # The-Analects    
 @inproceedings{jin-etal-2023-morphological,    
     title = "Morphological and Semantic Evaluation of {A}ncient {C}hinese Machine Translation",        
